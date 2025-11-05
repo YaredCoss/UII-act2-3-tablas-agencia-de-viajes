@@ -12,6 +12,7 @@ App: app_clientes
 En tu sistema (Terminal):
 
 desde la carpeta donde quieras crear el proyecto:
+
     mkdir UIII_Agencia_Viajes_0472
     cd UIII_Agencia_Viajes_0472
 
