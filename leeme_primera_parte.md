@@ -20,7 +20,7 @@ desde la carpeta donde quieras crear el proyecto:
 
 En la misma carpeta:
 
-code .
+    code .
 
 
 (Si code no funciona, abre VS Code y selecciona File > Open Folder... y elige UIII_Agencia_Viajes_0472.)
